@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @julianterenzio!
 - 👀 I’m interested in fintech, product development, and data science.
-- 🌱 I’m currently learning "Mathematics for Machine Learning Specialization" on Coursera
 - 📈 I’m currently working as a Credit Analyst at TD Securities.
 - 📫 You can reach me at <https://www.linkedin.com/in/julianterenzio/>
 
