@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @julianterenzio!
-- 👀 I’m interested in product, data science, and growth hacking.
-- 📈 I’m currently working as a Credit Analyst at TD Securities.
-- 📫 You can reach me at <https://www.linkedin.com/in/julianterenzio/>
+👋 Oh...hey there! I'm Julian.
 
-<!---
-julianterenzio/julianterenzio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a product manager by day, and an indie hacker by night.
+
+I like to train jiu jitsu.
+
+And I like bagels.
